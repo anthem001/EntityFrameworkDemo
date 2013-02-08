@@ -1,0 +1,8 @@
+c:\users\kelly\documents\visual studio 11\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+c:\users\kelly\documents\visual studio 11\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+c:\users\kelly\documents\visual studio 11\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+c:\users\kelly\documents\visual studio 11\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+c:\users\kelly\documents\visual studio 11\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+c:\users\kelly\documents\visual studio 11\Projects\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojResolveAssemblyReference.cache
+c:\users\kelly\documents\visual studio 11\Projects\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+c:\users\kelly\documents\visual studio 11\Projects\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
